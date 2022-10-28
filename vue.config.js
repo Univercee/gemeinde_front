@@ -14,7 +14,7 @@ module.exports = {
     host: "127.0.0.1",
     port: 80,
   },
-  publicPath: "/",
+  publicPath: "univercee.github.io/gemeinde_front",
   pages: {
     index: {
       entry: 'src/main.ts',
