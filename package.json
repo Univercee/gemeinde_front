@@ -2,6 +2,7 @@
   "name": "gena_fe",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://univercee.github.io/gemeinde_front",
   "scripts": {
     "serve": "vue-cli-service serve --mode development",
     "build": "vue-cli-service build --mode development",
